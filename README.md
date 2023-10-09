@@ -1,16 +1,11 @@
-# contact_hub
+# Contact Hub
 
-A new Flutter project.
+Contact Hub é um aplicativo de agenda de contatos simples construído com Flutter. Ele permite que você gerencie seus contatos de forma eficiente e fácil.
 
-## Getting Started
+## Recursos Principais
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Visualize uma lista de contatos
+- Adicione, edite e exclua contatos
+- Pesquise contatos por nome ou telefone
+- Organize seus contatos
+- Informações sobre o aplicativo
